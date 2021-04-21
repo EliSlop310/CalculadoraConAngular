@@ -27,3 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 Proyectop Link Drive provisional: https://drive.google.com/drive/folders/1HRB3mEK-5cd-p828T0QKZwU7slP-MwDf?usp=sharing
+
+Carpeta de librerias angular [descomprimir carpeta] link drive: https://drive.google.com/file/d/1SugktrzcWzQ7Je_hK91YTaSwpLUaHfkn/view?usp=sharing
