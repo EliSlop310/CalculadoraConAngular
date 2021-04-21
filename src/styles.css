@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+input [type=number] {
+  border: 1px dotted #999;
+  border-radius: 0;
+
+  -webkit-appearance: none;
+}

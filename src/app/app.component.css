@@ -1,0 +1,39 @@
+*{
+	font-family:monospace;
+    font-style:	oblique;
+ 	padding:0px;
+	display: center;
+	text-align:center;
+	
+}
+
+#Formulario{
+	width:280px;
+	padding:3px;
+	margin:0 auto;
+	background-color:#ccdaff;
+	border-radius:15px;
+	border-style: double;
+	border-color:blue;
+
+
+}
+
+div {
+	width:250px;
+	color:#5c6782;
+	background-color:#ccdaff;
+	padding:8px;
+}
+
+table{width:260px;}
+
+table td {
+	width:10px;
+	padding:5px;
+	text-align:center;
+	
+}
+button {
+	width:100px;
+}

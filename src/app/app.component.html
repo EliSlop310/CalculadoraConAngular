@@ -1,0 +1,50 @@
+<h1>{{titulo}}</h1>
+<br><br>
+<div id="Formulario">
+ <form>
+
+   <div>
+   <label><h3>Operando A:</h3></label>
+   <input
+   type="number"
+   class="form-control"
+   [(ngModel)]="operandoA"
+   name="operandoA"
+   />
+  </div>
+<br>
+   <div>
+   <label><h3>Operando B:</h3></label>
+   <input
+   type="number"
+   class="form-control"
+   [(ngModel)]="operandoB"
+   name="operandoB"
+   />
+  </div>
+  <br><br>
+  <table>
+  <tr>
+  <td>
+  <button type="submit" class="btn btn-primary" 
+  (click)="onsumar()">+</button>
+  
+	</td><td>
+  
+    <button type="submit" class="btn btn-primary" 
+  (click)="onrest()">-</button>
+    </td></tr><tr><td>
+  
+  <button type="submit" class="btn btn-primary" 
+  (click)="onmulti()">*</button>
+  
+  </td><td>
+  
+    <button type="submit" class="btn btn-primary" 
+    (click)="ondiv()">/</button>
+  
+  </td></tr></table>
+ </form>
+ <br>
+ <h3><p>Resultado: {{resultado}}</p></h3>
+</div>
